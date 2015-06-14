@@ -1,0 +1,360 @@
+1	Brasserie Piedboeuf (AB InBev)
+2	Brouwerij Strubbe
+3	Brouwerij Duvel Moortgat
+4	Brouwerij Anders for GIBRIT
+5	Brouwerij Strubbe for Bierfirma Den Haene
+6	Brasserie St. Jean
+7	Brouwerij Anders for Nonneke
+8	Brouwerij du Bocq
+9	De Proefbrouwerij for Brouwerij Slaapmutske
+10	Microbrewery Den Triest
+11	Geuzestekerij De Cam
+12	Brasserie Ellezelloise
+13	Brasserie de Jandrain-Jandrenouille
+14	Brouwerij Belle-Vue (AB InBev)
+15	Brouwerij Engilsen
+16	Microbrewery Achilles
+17	Brouwerij Rodenbach
+18	Brasserie Dupont for Kunstencentrum Vooruit
+19	Affligem Brewery (Heineken)
+20	Brouwerij Liefmans
+21	Brouwerij Walrave
+22	De Proefbrouwerij for bierfirma Lesage
+23	Brouwerij Palm for Group John Martin
+24	Brouwerij Bockor
+25	Brouwerij De Graal for Hopduvel Gent
+26	Stadsbrouwerij Gruut
+27	for bierfirma Vacas
+28	De Proefbrouwerij for Het Hinkelspel
+29	Brouwerij De Graal for Brouwerij De Kassei
+30	Brouwerij Slagmuylder
+31	Brouwerij Dilewyns
+32	t Hofbrouwerijke for bierfirma Montaignu
+33	De Proefbrouwerij for bierfirma BVG
+34	Brouwerij De Graal
+35	De Proefbrouwerij for Oude Brouwerij van Zonnegem vzw
+36	Scottish & Newcastle for Group John Martin
+37	Brasserie la Botteresse de Sur-les-bois
+38	Authentique Brasserie
+39	Brouwerij Van Steenberge for Paeleman
+40	Huisbrouwerij de 3 vaten
+41	Brouwerij Jessenhofke by De Proefbrouwerij
+42	Brasserie Saint-Monon
+43	Brasserie Les 3 Fourquets commissioned by Confrérie du Tchesté de Neufchâteau
+44	Brasserie de Silenrieux
+45	De Proefbrouwerij for The Musketeers
+46	Antwerpse Brouw Compagnie
+47	Brouwerij Haacht
+48	Hanssens Artisanaal
+49	Brouwerij Slaghmuylder
+50	Brouwerij De Graal for Bryggja
+51	Brouwerij Vissenaken
+52	Scheldebrouwerij
+53	De proefbrouwerij for Verstraeten H&S
+54	Brouwerij De Smedt commissioned by bierfirma Fisser
+55	Brouwerij De Vlier for Promaco Vision
+56	Brouwerij De Graal for bierfirma Vacas
+57	Gueuzerie Tilquin
+58	Brouwersverzet by Brouwerij Gulden Spoor
+59	Brouwerij Bavik for “Mout- en Brouwhuis De Snoek”
+60	De Proefbrouwerij commissioned by Brouwerij Pirlot
+61	Alken-Maes (Heineken) (previously in Brouwerij De Gouden Boom)
+62	De Proefbrouwerij for Microbrewery Achilles
+63	Brouwerij Alvinne
+64	Brouwerij Verhaeghe
+65	De Proefbrouwerij for bierfirma Slaapmutske
+66	Brasserie d'Ecaussinnes
+67	Brouwerij Kerkom by Brouwerij Sint-Jozef
+68	Scheldebrouwerij for Hobbybrouwerij Het Nest
+69	Brouwerij Wilderen
+70	Brasserie Du Bocq
+71	De Lion à Plume by Brasserie Sainte-Hélène
+72	Brouwerij Inter-Pol
+73	Brouwerij Maenhout
+74	Brouwerij Dubuisson
+75	De Proefbrouwerij for Brouwerij The Musketeers
+76	Brouwerij Strubbe for bierfirma Den Haene
+77	De Proefbrouwerij for Het Waterhuis aan de bierkant
+78	Brasserie Brootcoorens
+79	Brouwerij 't Gaverhopke
+80	Brouwerij Anders for Brouwerij Bueckenholt
+81	Brouwerij Bavik
+82	De Scheldebrouwerij for Brouwerij Het Nest
+83	Brasserie de Tubize
+84	Brouwerij De Halve Maan
+85	De Proefbrouwerij for Brouwerij De Arend (Hoboken)
+86	Brouwerij Verhaeghe for Brouwerij Clarysse (bierfirma)
+87	Brasserie de Silly
+88	Brouwerij Strubbe for stad Lier
+89	Microbrewery Achilles in De Proefbrouwerij commissioned by Paters en Prinsen
+90	De Proefbrouwerij for Captain Cooker
+91	Group John Martin
+92	Brasserie Jean Tout Seul
+93	Abbaye Notre-Dame de Saint-Rémy de Rochefort
+94	Brouwerij De Graal for De Hopjutters
+95	De Proefbrouwerij for De Verhuisbrouwerij
+96	t Hofbrouwerijke
+97	Brouwerij Westmalle
+98	Haacht
+99	Brouwerij 't Pakhuis
+100	Brasserie des Légendes
+101	Brouwerij De Graal for SLIM
+102	Brouwerij Loterbol
+103	Brouwerij Val-Dieu
+104	Brouwerij Maenhout by Brouwerij Gulden Spoor
+105	Brouwerij Smisje
+106	Brouwerij Van Honsebrouck
+107	Brouwerij Den Tseut
+108	Brouwerij Van Steenberge for de gemeente Bierbeek en Terclavers
+109	Brouwerij De Kluis (AB InBev)
+110	Brouwerij De Ryck
+111	Les Artisans Brasseurs
+112	Brasserie Caracole
+113	Brouwerij De Graal for t'Drankorgel
+114	De Proefbrouwerij for Brouwerij Cluysenaer
+115	Brouwerij Martens for Aldi
+116	Brouwerij De Graal for De Hoevebrouwers
+117	Brasserie La Botteresse de Sur-les-Bois
+118	Brouwerij Bier & Karakter by Brouwerij Deca
+119	Brouwerij Strubbe for “Mout- en Brouwhuis De Snoek”
+120	Brasserie La Binchoise
+121	‘t Hofbrouwerijke for De Verhuisbrouwerij
+122	De Scheldebrouwerij for De Lelie
+123	Brouwerij De Plukker
+124	Brouwerij Van Eecke for Extremis
+125	Brouwerij Strubbe for den Haene
+126	Brouwerij Van Den Bossche for Scouts Moen 50 jaar (2011)
+127	Brouwerij Gulden Spoor
+128	De Proefbrouwerij for Stepaja bvba
+129	Brouwerij De Leyerth
+130	Brasserie Dupont
+131	Brouwerij De Ranke for Brasserie de la Senne
+132	Brasserie à Vapeur
+133	De Proefbrouwerij
+134	Brouwerij St. Bernardus
+135	De Proefbrouwerij for het Zeuntcomité
+136	Brasserie du Bocq for Brouwerij Corsendonk
+137	Brouwerij De Leite
+138	Brasserie Saint Feuillien
+139	De Proefbrouwerij for Bierfirma Trappieter
+140	Brouwerij Van Steenberge for Brouwerij Paeleman
+141	De Proefbrouwerij for Bierfirma Vacas
+142	De Proefbrouwerij for Brouwerij De Arend
+143	De Verhuisbrouwerij
+144	Brasserie Artisanale de Rulles
+145	Brouwerij Anders for Halen Breweries
+146	Brouwerij De Graal for Brouwerij De 6 Helmen
+147	Brouwerij Lefebvre
+148	De Proefbrouwerij for Brouwerij Jessenhofke
+149	Brouwerij Van Steenberge commissioned by Brouwerij Vanuxeem
+150	Brasserie du Bocq for Broeder Jacob bvba
+151	De Proefbrouwerij commissioned by De Kale Ridders
+152	Brouwerij Huyghe for Oxfam world shops
+153	De Proefbrouwerij for de gemeente Zwalm
+154	De Struise Brouwers by Brouwerij Deca
+155	Brouwerij Bosteels
+156	Brouwerij De Ranke for Bierwinkel Bacelle
+157	De Proefbrouwerij commissioned by De Kastelse Biervereniging
+158	Brouwerij Mortal's Beers
+159	Brasserie de Bellevaux
+160	Brasserie du Flo
+161	Brouwerij Het Anker
+162	Brouwerij Huyghe for Brouwerij Oud Beersel
+163	Brouwerij Hof ten Dormaal
+164	Microbrasserie de la Principauté
+165	Abdij Notre-Dame d'Orval
+166	Brasserie De Bouillon
+167	De Proefbrouwerij for Brouwerij Pirlot
+168	Achelse Kluis
+169	Brouwerij Roman for Wieze Beer Belgium
+170	Brasserie Cantillon
+171	Zennebrouwerij
+172	De Struise Brouwers
+173	Brouwerij Het Alternatief by Brouwerij Alvinne
+174	Brouwerij Den Toetëlèr
+175	Brouwerij Girardin
+176	Brasserie les 3 Fourquets
+177	Brouwerij Strubbe for Biofresh Gavere
+178	De Proefbrouwerij for ’t Brugs Bierinstituut
+179	De Proefbrouwerij for Gageleer cbva-so
+180	Brouwerij Brootcoorens
+181	Brasserie de l'Abbaye du Val-Dieu for Radermacher Distillerie
+182	Brasserie la Barbiot
+183	Brouwerij Deca
+184	Brouwerij Lupus
+185	De Dolle Brouwers for Kaffee Kavijaks
+186	Brasserie Saint-Feuillien
+187	Brouwerij Verstraete by Brouwerij Deca
+188	Brouwerij De Vlier
+189	Brouwerij St. Bernardus for café Den Toerist
+190	Brouwerij De Regenboog
+191	Brouwerij Toye
+192	Brouwerij Van den Bossche
+193	Brouwerij Boelens
+194	Huisbrouwerij Sint Canarus for De Verhuisbrouwerij
+195	Geuzestekerij 3 Fonteinen
+196	Brouwerij Anders for BOMBrewery
+197	Brouwerij Het Anker (previously in Brouwerij Riva en Brouwerij Liefmans)
+198	Brasserie des Géants
+199	Brouwerij Danny
+200	Brouwerij Kerkom
+201	Brouwerij De Dochter van de Korenaar
+202	Brasserie Oxymore
+203	Brouwerij St-Bernardus
+204	Brasserie La Binchoise (for Brasserie de Malonne)
+205	Brouwerij De Landtsheer
+206	Brasserie Fantôme
+207	Brasserie du Bocq for Brouwerij Sterkens
+208	Brouwerij Oud Beersel
+209	Huisbrouwerij Sint Canarus
+210	Brasserie du Bocq
+211	Brouwerij De Graal for (T)Huisbrouwerij Odlo
+212	Brasserie Caulier
+213	De Proefbrouwerij for Buitenlust
+214	Brasserie Saint-Monon for Confrérie du Busson
+215	Huisbrouwerij 't Pakhuis
+216	AB InBev
+217	De Proefbrouwerij for bierfirma Half Zeven
+218	’t Hofbrouwerijke for Montaigu
+219	Brouwerij Van Eecke
+220	Brouwerij De Bie
+221	Sint-Sixtusabdij van Westvleteren
+222	Brasserie de Bastogne
+223	Brouwers Verzet in Brouwerij De Ranke
+224	Brasserie de Bouillon
+225	Brouwerij Van Steenberge for BIVO Drinks
+226	Brasserie de l'Abbaye des Rocs
+227	Brouwerij Het Alternatief by Brouwerij De Graal or Brouwerij Alvinne
+228	Brasserie du Bocq for Corsendonk nv
+229	Brouwerij Louwaege
+230	De Proefbrouwerij for Verstraeten H&S
+231	t Hofbrouwerijke for Brouwerij Montaigu
+232	Brouwerij Den Triest en Brouwerij Anders for Brouwerij Bueckenholt
+233	Brouwerij Lindemans
+234	Brasserie des Fagnes
+235	Brouwerij Augrenoise
+236	Brouwerij De Koninck (Duvel-Moortgat)
+237	Brouwerij Boon & De Lambikstoempers
+238	Brouwerij Caulier
+239	Brouwerij Cnudde
+240	Huisbrouwerij Sint Canarus by De Proefbrouwerij
+241	Brouwerij Van Steenberge
+242	Brasserie Lefebvre
+243	Bierfirma NoordSter by Brouwerij De Vlier
+244	Brouwerij Bios
+245	Brouwerij De Graal for De Verhuisbrouwerij
+246	Brouwerij Maenhout for bierfirma Proefbrouwerij d'oude maalderij
+247	Brouwerij Anders for Brouwerij Henricus
+248	Brouwerij Hanssens
+249	Brouwerij Anders for Inglorious Brew Stars
+250	3 Fonteinen, Brouwerij Boon, Timmermans, Oud Beersel, Lindemans, De Troch, De Cam, Hanssens
+251	Brouwerij Van Den Bossche
+252	Brouwerij du Bocq for Corsendonk nv
+253	Brasserie d'Achouffe (Duvel-Moortgat)
+254	Brouwerij Verhaeghe Vichte commissioned by Brouwerij Vanuxeem
+255	Brouwerij Lupus for (T)Huisbrouwerij Odlo
+256	Brouwerij Den Herberg
+257	Brouwerij Het Sas
+258	Brouwerij Anders for Verenigde Brouwers
+259	De Proefbrouwerij for Caulier Developpement
+260	Brouwerij De Cock by Brouwerij Van Steenberge
+261	Brasserie Gigi
+262	Brouwerij Sint-Jozef commissioned by Zirvest Cvba
+263	De Proefbrouwerij for Beerdevelopment Viven
+264	Brouwerij Donum Ignis
+265	Seizoensbrouwerij Vandewalle
+266	Brouwerij Gulden Spoor for bierfirma Hugel
+267	Brasserie La Ferme au Chêne
+268	Brouwerij Den Hopperd
+269	De Lion à Plume by Brasserie de Bastogne
+270	Brouwerij Anders for brouwerij De Neus
+271	Brouwerij Huyghe
+272	Abbaye Notre-Dame de Scourmont
+273	Brouwerij Nieuwhuys
+274	De Proefbrouwerij for Brouwerij Troch
+275	Brouwerij De Koningshoeven commissioned by Brouwerij Urthel
+276	Brasserie d'Ebly
+277	Brouwerij 't Paenhuys
+278	De Proefbrouwerij for Zonderik Beer Company
+279	Brouwerij Palm (previously in Brouwerij De Gouden Boom)
+280	De Proefbrouwerij for bierfirma Bas-bieren
+281	Brouwerij Danny for Stichting Marcel De Bisschop
+282	Brouwerij Het Gulden Spoor
+283	Brasserie des Carrières
+284	Brouwerij Martens
+285	Geuzestekerij 3 fonteinen
+286	Brouwerij Wieze
+287	Brouwerij Angerik
+288	Stadsbrouwerij Aarschot
+289	Dorpsbrouwerij Humulus
+290	De Proefbrouwerij for Geuzestekerij 3 Fonteinen
+291	Brouwerij Roman
+292	Brouwerij Strubbe for Brouwerij Crombé
+293	Brouwerij en stokerij Wilderen
+294	Brouwerij Van Steenberge for Microbrewery Paeleman commissioned by Kwets vzw
+295	Brouwerij Opus Magnum
+296	Brouwerij Sint-Jozef
+297	Brouwerij Anders for Brussels Beer Project
+298	Huisbrouwerij Sint Canarus for JCI Deinze en Leiestreek
+299	Brouwerij Het Alternatief by Brouwerij De Graal
+300	De Dolle Brouwers
+301	Brouwerij Strubbe for Guldenboot nv
+302	Brouwerij Palm
+303	Brouwerij De Troch
+304	Brouwerij Kortrijk-d’Utsel
+305	Brouwerij Sint-Jozef for brouwerij Kerkom
+306	Brasserie Val de Sambre
+307	Brouwerij Belgoobeer by Brasserie La Binchoise
+308	Brasserie La Frasnoise
+309	Brasserie de Cazeau
+310	Brouwerij Contreras
+311	Brouwerij Martens (Bocholt)
+312	Kasteelbrouwerij De Dool
+313	Brouwerij De Ranke
+314	Brouwerij Kerkom commissioned by drankenservice Pelgrims
+315	Brouwerij Van Steenberge for De Brouwerij van Vlaanderen
+316	Brouwerij Jessenhofke
+317	Brouwerij Riva
+318	De Scheldebrouwerij
+319	Brasserie St-Feuillien
+320	Brouwerij Boelens commissioned by VVV De Faluintjesstreek
+321	Brouwerij De Glazen Toren
+322	Brouwerij Fort Lapin
+323	Brouwerij Slaghmuylder commissioned by VVV De Faluintjesstreek
+324	Brouwerij Verhaeghe Vichte
+325	Brouwerij De Rijck
+326	Brouwerij Boelens for Bier- en Wijnhandel De Neys-Asselman
+327	De Proefbrouwerij for Brouwerij Druïde
+328	Brouwerij Gulden Spoor for Alain Quackelbeen
+329	Brasserie Grain d'Orge
+330	Huisbrouwerij Den Tseut
+331	Brouwerij De Graal for Traagwater
+332	Brasserie de Blaugies
+333	Staminee De Garre (Brouwerij Van Steenberge)
+334	Brouwerij De Graal for bierfirma Ribaldus
+335	Brouwerij Sint-Jozef for Brouwerij Kerkom
+336	De Proefbrouwerij for Vliegende Paard Brouwers
+337	Brouwerij Van Steenberge for Hopduvel Gent
+338	De Proefbrouwerij for bierfirma VALOCCO
+339	Brouwerij Anders commissioned by Paters en Prinsen
+340	Brasserie Millevertus
+341	Brasserie de Bertinchamps
+342	Brouwerij Slaapmutske
+343	Brouwerij De Graal for bierfirma Johannes
+344	Brasserie Sainte-Hélène
+345	t Hofbrouwerijke commissioned by Brouwerij Het Nest
+346	Huisbrouwerij Sint-Canarus
+347	Brouwerij Ter Dolen
+348	Brouwerij Boon
+349	Brasserie de Brunehaut
+350	Brouwerij Timmermans
+351	Brasserie de la Senne
+352	Gageleer
+353	Brouwerij Huyghe for de De Scheldebrouwerij
+354	Brouwerij De Block
+355	De Proefbrouwerij for de familie Neyt
+356	Brouwerij DijkWaert
+357	Brouwerij De Ranke for NovaBirra
+358	Alken-Maes (Heineken)
+359	Scheldebrouwerij for Brouwerij Het Nest
+360	Brouwerij Strubbe for BioFresh
