@@ -15,7 +15,7 @@ exports.query = function (sql, values, singleItem, dontLog) {
     if (!dontLog) {
         console.log(sql, values);
     }
-    console.error(sql, values);
+    console.log(sql, values);
 
     var deferred = Q.defer();
 
