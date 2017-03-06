@@ -219,6 +219,6 @@ var App = React.createClass({displayName: "App",
 
 alert("ConsoleMsg5");
 
-React.render(React.createElement(App, null), document.getElementById('main'));
+ReactDOM.render(React.createElement(App, null), document.getElementById('main'));
 
 
