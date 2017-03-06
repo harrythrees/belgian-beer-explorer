@@ -209,5 +209,7 @@ var App = React.createClass({
         );
     }
 });
-
+ 
+console.log("ConsoleMsg1");
 React.render(<App/>, document.getElementById('main'));
+console.log("ConsoleMsg2");
