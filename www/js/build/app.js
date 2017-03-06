@@ -160,12 +160,13 @@ var Paginator = React.createClass({displayName: "Paginator",
 
 alert("ConsoleMsg4");
 
+/*
 var App = React.createClass({displayName: "App",
     render: function() {
         return ( React.createElement('h1', {className: 'heading'}, 'Hello World'), null);
     }
+*/
 
-/*
 var App = React.createClass({displayName: "App",
     getInitialState: function() {
         return {
@@ -221,11 +222,12 @@ var App = React.createClass({displayName: "App",
             )
         );
     }
-*/
 
 });
 
 alert("ConsoleMsg5");
+
+/*
 
 ReactDOM.render(
   React.createElement('h1', {className: 'heading'}, 'Hello World'),
@@ -237,9 +239,8 @@ setTimeout(myFunction, 3000);
 function myFunction() {
     alert('Hello');
 }
-
-/*
-ReactDOM.render(React.createElement(App, null), document.getElementById('main'));
 */
+
+ReactDOM.render(React.createElement(App, null), document.getElementById('main'));
 
 
