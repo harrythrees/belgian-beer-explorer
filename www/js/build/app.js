@@ -161,6 +161,12 @@ var Paginator = React.createClass({displayName: "Paginator",
 alert("ConsoleMsg4");
 
 var App = React.createClass({displayName: "App",
+    render: function() {
+        return ( React.createElement('h1', {className: 'heading'}, 'Hello World'), null);
+    }
+
+/*
+var App = React.createClass({displayName: "App",
     getInitialState: function() {
         return {
             searchKey: "",
@@ -215,6 +221,8 @@ var App = React.createClass({displayName: "App",
             )
         );
     }
+*/
+
 });
 
 alert("ConsoleMsg5");
