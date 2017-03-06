@@ -232,6 +232,12 @@ ReactDOM.render(
   document.getElementById('main')
 );
 
+setTimeout(myFunction, 3000);
+
+function myFunction() {
+    alert('Hello');
+}
+
 /*
 ReactDOM.render(React.createElement(App, null), document.getElementById('main'));
 */
