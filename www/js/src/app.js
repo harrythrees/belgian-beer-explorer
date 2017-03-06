@@ -210,7 +210,5 @@ var App = React.createClass({
     }
 });
  
-alert("ConsoleMsg1");
 React.render(<App/>, document.getElementById('main'));
-alert("ConsoleMsg2");
 
