@@ -227,7 +227,7 @@ var App = React.createClass({displayName: "App",
 
 alert("ConsoleMsg5");
 
-React.render(
+ReactDOM.render(
   React.createElement('h1', {className: 'heading'}, 'Hello World'),
   document.getElementById('main')
 );
