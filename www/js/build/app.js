@@ -1,5 +1,5 @@
 alert("ConsoleMsg1");
-
+/*
 var Header = React.createClass({displayName: "Header",
     render: function () {
         return (
@@ -11,7 +11,7 @@ var Header = React.createClass({displayName: "Header",
         );
     }
 });
-
+*/
 alert("ConsoleMsg2");
 
 var SearchBar = React.createClass({displayName: "SearchBar",
