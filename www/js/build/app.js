@@ -12,6 +12,8 @@ var Header = React.createClass({displayName: "Header",
     }
 });
 
+alert("ConsoleMsg2");
+
 var SearchBar = React.createClass({displayName: "SearchBar",
     searchKeyChangeHandler: function() {
         var searchKey = this.refs.searchKey.getDOMNode().value;
@@ -33,6 +35,8 @@ var SearchBar = React.createClass({displayName: "SearchBar",
         );
     }
 });
+
+alert("ConsoleMsg3");
 
 // Wrap nouislider (http://refreshless.com/nouislider) as a React component
 var RangeSlider = React.createClass({displayName: "RangeSlider",
@@ -154,6 +158,7 @@ var Paginator = React.createClass({displayName: "Paginator",
     }
 });
 
+alert("ConsoleMsg4");
 
 var App = React.createClass({displayName: "App",
     getInitialState: function() {
@@ -212,8 +217,8 @@ var App = React.createClass({displayName: "App",
     }
 });
 
-alert("ConsoleMsg1");
+alert("ConsoleMsg5");
+
 React.render(React.createElement(App, null), document.getElementById('main'));
-alert("ConsoleMsg2");
 
 
