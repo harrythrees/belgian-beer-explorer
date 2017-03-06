@@ -210,4 +210,8 @@ var App = React.createClass({displayName: "App",
     }
 });
 
+alert("ConsoleMsg1");
 React.render(React.createElement(App, null), document.getElementById('main'));
+alert("ConsoleMsg2");
+
+
