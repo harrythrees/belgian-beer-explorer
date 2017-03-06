@@ -212,8 +212,10 @@ var App = React.createClass({displayName: "App",
                 React.createElement("div", {className: "container"}, 
                     React.createElement("div", {className: "row"}, 
                         React.createElement("div", {className: "center-block trim"}, 
-                            React.createElement(SearchBar, {searchKey: this.state.searchKey, searchKeyChange: this.searchKeyChangeHandler}), 
+                            React.createElement(SearchBar, {searchKey: this.state.searchKey, searchKeyChange: this.searchKeyChangeHandler}) 
+                            /*  ,
                             React.createElement(RangeSlider, {label: "% alcohol", min: 0, max: 26, step: .5, onChange: this.rangeChangeHandler})
+                            */
                         )
                     )
                 ), 
