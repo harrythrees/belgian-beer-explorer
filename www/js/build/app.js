@@ -1,4 +1,4 @@
-alert("ConsoleMsg1");
+// alert("ConsoleMsg1");
 
 var Header = React.createClass({displayName: "Header",
     render: function () {
@@ -12,7 +12,7 @@ var Header = React.createClass({displayName: "Header",
     }
 });
 
-alert("ConsoleMsg2");
+// alert("ConsoleMsg2");
 
 var SearchBar = React.createClass({displayName: "SearchBar",
     searchKeyChangeHandler: function() {
@@ -36,7 +36,7 @@ var SearchBar = React.createClass({displayName: "SearchBar",
     }
 });
 
-alert("ConsoleMsg3");
+// alert("ConsoleMsg3");
 
 // Wrap nouislider (http://refreshless.com/nouislider) as a React component
 var RangeSlider = React.createClass({displayName: "RangeSlider",
@@ -158,7 +158,7 @@ var Paginator = React.createClass({displayName: "Paginator",
     }
 });
 
-alert("ConsoleMsg4");
+// alert("ConsoleMsg4");
 
 /*
 var App = React.createClass({displayName: "App",
@@ -167,7 +167,57 @@ var App = React.createClass({displayName: "App",
     }
 */
 
-var App = React.createClass({displayName: "App",
+class App extends React.Component {
+    constructor() {
+        super();
+        this.state = {
+            searchKey: "",
+            min: 0,
+            max: 30,
+            products: [],
+            total: 0,
+            page: 1
+        }
+        this.componentDidMount = this.componentDidMount.bind(this);
+        this.findProducts = this.findProducts.bind(this);
+    }
+    componentDidMount() {
+        this.findProducts();
+    }
+    findProducts() {
+        productService.findAll({search: this.state.searchKey, min: this.state.min, max: this.state.max, page: this.state.page}).done(function(data) {
+            this.setState({
+                products: data.products,
+                page: data.page,
+                pageSize: data.pageSize,
+                total: data.total
+            });
+        }.bind(this));
+    }
+    render() {
+        return (
+            React.createElement("div", null, 
+                React.createElement(Header, {text: "Belgian Beer Explorer"}), 
+                React.createElement("div", {className: "container"}, 
+                    React.createElement("div", {className: "row"}, 
+                        React.createElement("div", {className: "center-block trim"}
+                            /*  ,
+                            React.createElement(SearchBar, {searchKey: this.state.searchKey, searchKeyChange: this.searchKeyChangeHandler}) 
+                            React.createElement(RangeSlider, {label: "% alcohol", min: 0, max: 26, step: .5, onChange: this.rangeChangeHandler})
+                            */
+                        )
+                    )
+                ), 
+                /*
+                React.createElement(Paginator, {page: this.state.page, pageSize: this.state.pageSize, total: this.state.total, previous: this.prevPage, next: this.nextPage}), 
+                */
+                React.createElement(ProductList, {products: this.state.products, total: this.state.total, searchKeyChange: this.searchKeyChangeHandler})
+            )
+        );
+    }
+}    
+
+var XApp = React.createClass({displayName: "App",
     getInitialState: function() {
         return {
             searchKey: "",
